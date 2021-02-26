@@ -31,7 +31,7 @@ g.axis-x > g.tick > text {
 }
     
 rect {
-    fill: darkolivegreen;
+    fill: goldenrod;
 }
 
 div.annotation {
